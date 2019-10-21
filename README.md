@@ -118,3 +118,5 @@ if __name__ == "__main__":
 <!-- wp:code -->
 <pre class="wp-block-code"><code>* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)</code></pre>
 <!-- /wp:code -->
+
+![Image description](https://github.com/pik1989/PersonalizedChatBot/blob/master/Images/Screen.PNG)
